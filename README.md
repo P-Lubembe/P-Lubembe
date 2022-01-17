@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P-Lubembe
 - 👀 I’m interested in coding to provide solutions to the many problems around us.
-- 🌱 I’m currently learning mobile app developmet
+- 🌱 I’m currently learning Web and mobile app developmet
 - 💞️ I’m looking to collaborate on solving problems using technology
 - 📫 How to reach me: fb: Patrick Lubembe
 
